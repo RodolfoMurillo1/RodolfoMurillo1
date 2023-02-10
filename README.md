@@ -20,5 +20,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RodolfoMurillo1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![profile-image](images/profile-image)
+![profile-image](images/profile-image.png)
 
