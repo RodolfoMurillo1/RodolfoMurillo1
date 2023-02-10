@@ -1,6 +1,9 @@
+![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
+<h1 align="center">Hi 👋, I'm Rodolfo Murillo</h1>
+<h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
 # 💫 About Me:
 🌱 My Portfolio Projects are in: [Portfolio Projects](https://github.com/RodolfoMurillo1/Portfolio_Projects)
-
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5e0cf05266f5174555a56091/1583089177375-AFGOHZACTLKJ8R8YXCHD/CSFG+-+data-analysis+2.gif">
 
 ## 🌐 Socials:
 <p align="left">
